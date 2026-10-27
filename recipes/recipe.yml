@@ -30,6 +30,7 @@ modules:
         - i2pd
         - vim
         - setroubleshoot
+        - caddy
         - valkey
         - postgresql17-server
         - postgresql17-contrib
