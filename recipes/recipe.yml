@@ -20,7 +20,8 @@ modules:
   - type: dnf
     repos:
       copr:
-        - supervillain/i2pd
+        name: supervillain/i2pd
+        chroot: fedora-44-x86_64
     install:
       packages:
         - tor
