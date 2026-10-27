@@ -21,7 +21,7 @@ modules:
     repos:
       copr:
         - supervillain/i2pd
-      chroot: fedora-44-x86_64
+        chroot: fedora-44-x86_64
     install:
       packages:
         - tor
