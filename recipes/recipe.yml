@@ -29,8 +29,8 @@ modules:
         - vim
         - setroubleshoot
         - valkey
-        - postgresql-17-server
-        - postgresql-17-contrib
+        - postgresql17-server
+        - postgresql17-contrib
         - nextcloud
         - php-pgsql
         - php-sodium
