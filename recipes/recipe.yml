@@ -34,8 +34,8 @@ modules:
         - valkey
         - postgresql17-server
         - postgresql17-contrib
-        - nextcloud
-        - php-pgsql
-        - php-sodium
+        #- nextcloud
+        #- php-pgsql
+        #- php-sodium
 
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
